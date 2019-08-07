@@ -5,3 +5,8 @@ Documentation on the Basic Setup and use of the NVIDIA Jetson Xavier Embedded Sy
 * [SDK Manager](https://developer.nvidia.com/embedded/jetpack)
 * [New Deep Learning Library for Applications](https://developer.nvidia.com/deepstream-sdk)
 * [Robotics Development Kit](https://developer.nvidia.com/isaac-sdk)
+
+## Examples
+* [Object Detection Tutorial](https://pythonprogramming.net/introduction-use-tensorflow-object-detection-api-tutorial/)
+* [Face Detection](https://github.com/61c/PeopleDetector)
+
